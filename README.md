@@ -5,7 +5,7 @@ data, and software development.
 I love turning ideas into projects and learning new technologies<br>
 along the way.<br><br><br>
 💻 About Me<br>
-🌱 Currently learning PL/SQL, C++, Web Development, and Data Analysis.<br>
+🌱 Currently learning PL/SQL, Web Development, and Data Analysis.<br>
 👩‍💻 Building small projects to improve my coding skills and explore new tech.
 
 
