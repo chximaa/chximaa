@@ -1,12 +1,6 @@
 # 💫 About Me:
-Hello there 👋<br>
-Welcome to my corner of GitHub!<br>I'm a passionate 3rd-year Computer Science student with a strong interest in programming,<br>
-data, and software development.
-I love turning ideas into projects and learning new technologies<br>
-along the way.<br><br><br>
-💻 About Me<br>
-🌱 Currently learning PL/SQL, Java, Python libraries and Networking.<br>
-👩‍💻 Building small projects to improve my coding skills and explore new tech.
+I use this space to store projects, assignments, and random experiments.<br>
+Mostly focused on code that works and understanding why it works.
 
 
 ## 🌐 Socials:
